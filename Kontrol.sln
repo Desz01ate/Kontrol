@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kontrol", "Kontrol\Kontrol.csproj", "{D1870381-1F35-4FC8-82A4-21403A8C59FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1870381-1F35-4FC8-82A4-21403A8C59FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1870381-1F35-4FC8-82A4-21403A8C59FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1870381-1F35-4FC8-82A4-21403A8C59FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1870381-1F35-4FC8-82A4-21403A8C59FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
